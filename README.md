@@ -35,4 +35,4 @@ Pelissä on käytetty ääniefektejä sekä musiikkia.
 Tausta, fretti + frettianimaatio, namit ja pallot ovat omaa käsiäalaani. Pallosta tuleva savupilvi
 on Googlen kuvahaulla löytynyt animaatio. Musiikit (aloitusmusiikki, pelin musiikki ja game over-
 scenen musiikki) on löydetty Unityn Asset Storesta ja namien syömisen ääniefekti on löytynyt
-Googlen haulla.
+Googlen haulla (vapaa käyttöoikeus).

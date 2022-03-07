@@ -20,13 +20,13 @@ Pelissä on käytetty ääniefektejä sekä musiikkia.
 
 ## Kuvia pelistä
 
-![alt text](2d_fretti1.png)
+![alt text](2d_fretti6.png)
+
+![alt text](2d_fretti5.png)
 
 ![alt text](2d_fretti3.png)
 
 ![alt text](2d_fretti4.png)
-
-![alt text](2d_fretti5.png)
 
 ![alt text](2d_fretti6.png)
 

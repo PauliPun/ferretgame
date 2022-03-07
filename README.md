@@ -18,6 +18,8 @@ enter-näppäintä.
 
 Pelissä on käytetty ääniefektejä sekä musiikkia.
 
+OneDrive-linkki peliin: https://tinyurl.com/y5z6jrpe
+
 ## Kuvia pelistä
 
 ![alt text](2d_fretti6.png)
